@@ -9,7 +9,7 @@ int main()
     std::cout << "2023/10/11\n";
     std::cout << "LC1D_15_タケダ_ユウト\n";
     std::cout << "プレイヤー表示\n";
-    
+    std::cout << "マージします？！？！？\n";
     
 }
 
