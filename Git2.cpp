@@ -10,7 +10,7 @@ int main()
     std::cout << "LC1D_15_タケダ_ユウト\n";
     std::cout << "プレイヤー表示\n";
     std::cout << "マージします？！？！？\n";
-
+    std::cout << "衝突\n";
     std::cout << "プルしてから作業します\n";
 }
 
